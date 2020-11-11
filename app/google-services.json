@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950577684751",
+    "firebase_url": "https://photoediting-a2655.firebaseio.com",
+    "project_id": "photoediting-a2655",
+    "storage_bucket": "photoediting-a2655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950577684751:android:3f14c84aa0f64e7caa5e7a",
+        "android_client_info": {
+          "package_name": "com.example.photoediting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950577684751-tjkeigfkktmo3vb9nt7c99i3dkgq7di6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67evRoEwb1oy6VH_uxoI8NjAY4ITIgrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950577684751-tjkeigfkktmo3vb9nt7c99i3dkgq7di6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
